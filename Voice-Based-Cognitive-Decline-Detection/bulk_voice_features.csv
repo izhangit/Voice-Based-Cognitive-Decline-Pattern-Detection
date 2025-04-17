@@ -1,0 +1,6 @@
+filename,duration,avg_pitch,pitch_var,pause_count,word_count,hesitations,avg_word_length,cluster
+common_voice_en_40865225.wav,3.42,1690.082,1243177.2,4,8,0,3.125,1
+common_voice_en_40865481.wav,4.608,1340.501,996770.1,10,9,0,4.777777777777778,0
+common_voice_en_40865482.wav,4.284,1365.8949,1104203.8,4,10,0,5.4,0
+common_voice_en_40865483.wav,5.22,1566.1477,1114854.2,7,13,0,4.615384615384615,0
+common_voice_en_40865484.wav,4.788,1493.9218,1119288.0,3,1,0,4.0,1
